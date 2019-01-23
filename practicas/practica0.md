@@ -4,8 +4,11 @@ Compilar y correr xv6
 
 ## Herramientas: 
 gcc -> compilador
+
 git -> compartir el codigo
+
 make -> automatizar
+
 qemu -> para crear la maquina virtual
 
 ### Conceptos
