@@ -3,7 +3,9 @@ Modificar al programa sh.c para ejecutar al comando anterior
 
 ## Herramientas
 git
+
 make
+
 gcc
 
 ## Conceptos
@@ -15,3 +17,4 @@ gcc
 ## Que aprendi
 
 ## Url del commit
+https://github.com/jorgant23/so-jorgeV/commit/844c66197c04226bef9721188b6f3a35dc1d1aa1?diff=split
