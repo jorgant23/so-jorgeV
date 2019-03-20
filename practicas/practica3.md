@@ -33,5 +33,7 @@ git
 + Es el unico proceso que crea el SO
 
 # Que aprendi
+Aprendi como los programas tienen varios estados de acuerdo a su lugar en la ejecucion, puede estar corriendo, durmiendo, en espera, completado o zombie. Tambien aprendi como el SO hace uso deun stack que va guardando las variables que se usan en el proceso y una vez que sales de una funcion las deshecha.
 
 # Url del commit
+https://github.com/jorgant23/so-jorgeV/commit/bd5fec206949bca48356061556ff37d69f370bd4
