@@ -102,3 +102,11 @@ int sys_reboot(void){
   outb(0x64,0xFE);
   return 0;
 }
+
+int 
+sys_date(void){
+  struct rtcdate *r;
+  argptr(0, (void*)&r, sizeof(r)); //conecta referencia app usuario con app sistema
+  cmostime(r);
+  return 0;
+}
