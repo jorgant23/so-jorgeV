@@ -18,9 +18,10 @@ gcc
 + restaurar el Program counter y la direccion del nuevo proceso.
 
 ## Que aprendí
+Aprendi como el proceso con mayor prioridad en un planificador se ejecuta primero.
 
 ## url commit
-Commit 4_1
+https://github.com/jorgant23/so-jorgeV/commit/9a67c63c13b4dd5ab888b7aa930e6d1cd9488b28
 
 
 ## como se relaciona con lo conceptos anteriores
