@@ -7,9 +7,9 @@ git
 
 # Conceptos:
 + Hilos:
-  ++ Proceso ligero.
-  ++ Solo tiene un stack y el codigo y el heap lo comparte con el proceso principal.
-  ++ Si el proceso princpal termina, los hilos terminan.
+  + Proceso ligero.
+  + Solo tiene un stack y el codigo y el heap lo comparte con el proceso principal.
+  + Si el proceso princpal termina, los hilos terminan.
 
 + Lock:
   + Mecanismo de sincronizacion.
@@ -27,4 +27,8 @@ git
   + Problemas de sincronizacion.
     + Condicion de carrera. Ocurre cuando el resultado depende del orden en que se ejecutan los hilos.
     + Deadlock: Cuando dos o mas hilos estan esperando por un recurso que no se libera.
-    + Productor/Consumidor:
+    + Productor/Consumidor: Ocurre cuando los datos se pueden sobre escribir.
+    
+   # Que aprendi:
+   
+   # URL del commit:
