@@ -30,5 +30,6 @@ git
     + Productor/Consumidor: Ocurre cuando los datos se pueden sobre escribir.
     
    # Que aprendi:
+   https://github.com/jorgant23/so-jorgeV/commit/d1a311d3afbbe52800ca419498a522875b583766
    
    # URL del commit:
