@@ -18,3 +18,4 @@ Validar que los directorios son realmente archivos que contienen el nombre de ot
 https://github.com/jorgant23/so-jorgeV/commit/cb99179e7e72a9791a048e7e90a20f2985eb8fef
 
 # Que aprendi
+Aprendi como es que los archivos guardan en su inode el nombre del archivo y su referenci. Tambien pude poner en practica el como acceder a archivos mediante un programa.
